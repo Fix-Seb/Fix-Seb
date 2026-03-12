@@ -17,10 +17,21 @@ I'm an **M.Sc. student in Analytics & AI** with a background in strategy consult
 
 ## 🛠️ Skills
 
+#### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🤖 ML & Data Science Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B.svg?style=for-the-badge&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-FF6600.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
